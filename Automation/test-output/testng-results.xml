@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-28T11:17:00 IST" name="Default suite" finished-at="2025-02-28T11:17:17 IST" duration-ms="17235">
+    <groups>
+    </groups>
+    <test started-at="2025-02-28T11:17:00 IST" name="Default test" finished-at="2025-02-28T11:17:17 IST" duration-ms="17235">
+      <class name="jsp.LearnDataProvider">
+        <test-method signature="demoA(java.lang.String,java.lang.String)[pri:0, instance:jsp.LearnDataProvider@5c33f1a9]" started-at="2025-02-28T11:17:00 IST" name="demoA" data-provider="getData" finished-at="2025-02-28T11:17:03 IST" duration-ms="3371" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoA -->
+        <test-method signature="demoA(java.lang.String,java.lang.String)[pri:0, instance:jsp.LearnDataProvider@5c33f1a9]" started-at="2025-02-28T11:17:03 IST" name="demoA" data-provider="getData" finished-at="2025-02-28T11:17:05 IST" duration-ms="2209" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[john cena]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[khali]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoA -->
+        <test-method signature="demoA(java.lang.String,java.lang.String)[pri:0, instance:jsp.LearnDataProvider@5c33f1a9]" started-at="2025-02-28T11:17:05 IST" name="demoA" data-provider="getData" finished-at="2025-02-28T11:17:08 IST" duration-ms="2376" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jon snow]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[danaerys]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoA -->
+        <test-method signature="demoA(java.lang.String,java.lang.String)[pri:0, instance:jsp.LearnDataProvider@5c33f1a9]" started-at="2025-02-28T11:17:08 IST" name="demoA" data-provider="getData" finished-at="2025-02-28T11:17:10 IST" duration-ms="2212" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rohith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hitman]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoA -->
+        <test-method signature="demoA(java.lang.String,java.lang.String)[pri:0, instance:jsp.LearnDataProvider@5c33f1a9]" started-at="2025-02-28T11:17:10 IST" name="demoA" data-provider="getData" finished-at="2025-02-28T11:17:13 IST" duration-ms="2453" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rocky bhai]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KGF]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoA -->
+        <test-method signature="demoA(java.lang.String,java.lang.String)[pri:0, instance:jsp.LearnDataProvider@5c33f1a9]" started-at="2025-02-28T11:17:13 IST" name="demoA" data-provider="getData" finished-at="2025-02-28T11:17:15 IST" duration-ms="2345" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jack]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rose]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoA -->
+        <test-method signature="demoA(java.lang.String,java.lang.String)[pri:0, instance:jsp.LearnDataProvider@5c33f1a9]" started-at="2025-02-28T11:17:15 IST" name="demoA" data-provider="getData" finished-at="2025-02-28T11:17:17 IST" duration-ms="2218" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jerry]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoA -->
+      </class> <!-- jsp.LearnDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
