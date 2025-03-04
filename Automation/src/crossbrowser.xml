@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="tests"> 
+<parameter name="url" value="http://localhost:8080/login.do"/>
+  <test thread-count="5" name="TestA">
+  <parameter name="browser" value="chrome"/>
+    <parameter name="un" value="admin"/>
+      <parameter name="pwd" value="manager"/>
+  
+  
+    <classes>
+      <class name="com.actitime.testscript.CrossBrowser"/>
+    </classes>
+  </test> <!-- Test -->
+
+ <test thread-count="5" name="TestB">
+    <classes>
+      <class name="com.actitime.testscript.CrossBrowser"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
